@@ -17,31 +17,23 @@
 
 </div>
 
-> [!WARNING]
-> ## Moderation Notice
-> 
-> - This chat has **no moderation, filtering, or content review** — anything posted is fully the responsibility of the person who wrote it.
-> - Everyone is **fully anonymous** — there's no way to verify who's behind any message.
-> - This project is a demo/portfolio piece, not intended for production use.
-> - Use the live demo at your own discretion.
-
 > [!IMPORTANT]
 > ## Setup
-> 
 > - Download the project (or clone it with `git clone`)
-> - Go into the folder: `cd (File Name)`
-> - Install the packages: `npm install`
-> - Start the server: `npm start`
-> - Open `http://localhost:3000` in your browser
+> - Open `chrome://extensions` and turn on **Developer mode**
+> - Click **Load unpacked** and pick the project folder
+> - Pin the extension, open TikTok, and you're good to go
+>
 > ## About the Project
-> 
-> - This is a no-signup, anonymous chat app.
-> - Messages are never stored — the history clears when you refresh the page.
-> - You're free to use, change, and build on this project however you like (MIT License).
+> - A Chrome extension that switches between your TikTok accounts in one click.
+> - Made to make switching easier on desktop. It's in beta, so stuff might break when TikTok changes its site.
+> - Everything stays in your browser. Sessions are saved locally, so don't use it on a shared computer.
+> - Unofficial, not affiliated with TikTok.
+>
 > ## Features
-> 
-> - No signup, no login
-> - Real-time messaging (Socket.io)
-> - `@` user tagging/mentions
-> - Automatic random anonymous username (e.g. `ANON-42`)
-> - No database — nothing is stored
+> - One-click account switching
+> - Profile picture and username for each account
+> - Notification count next to each account, like `(9)`
+> - Username is picked up automatically, nothing to type
+> - The same account can't be added twice
+ 
