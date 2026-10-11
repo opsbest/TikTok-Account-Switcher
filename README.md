@@ -1,6 +1,6 @@
 <div align="center">
 
-![hippo](https://i.imgur.com/oyGikSz.png)
+![hippo](https://i.imgur.com/NmzPyKs.png)
 
 # TikTok Account Switcher (BETA)
 
