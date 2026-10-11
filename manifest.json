@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "TikTok Account Switcher",
+  "version": "1.0.0",
+  "description": "Switch between multiple TikTok accounts with one click.",
+  "permissions": ["cookies", "storage", "tabs", "scripting"],
+  "host_permissions": [
+    "https://*.tiktok.com/*",
+    "https://*.tiktokcdn.com/*",
+    "https://*.tiktokcdn-us.com/*",
+    "https://*.tiktokcdn-eu.com/*",
+    "https://*.tiktokv.com/*",
+    "https://*.tiktokv.eu/*",
+    "https://*.ibyteimg.com/*",
+    "https://*.byteimg.com/*",
+    "https://*.muscdn.com/*"
+  ],
+  "action": {
+    "default_title": "TikTok Account Switcher",
+    "default_popup": "popup.html"
+  }
+}
