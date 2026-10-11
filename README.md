@@ -4,8 +4,7 @@
 
 # AnonChat v0.2.0 (Open Source)
 
-<p>A no-signup, anonymous, real-time chat app</p>
-<p>Demo: https://anonchat-7efz.onrender.com/</p>
+<p>A simple one-click account switcher for TikTok on desktop</p>
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
 <p>
