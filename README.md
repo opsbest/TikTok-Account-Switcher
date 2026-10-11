@@ -28,6 +28,7 @@
 > - Made to make switching easier on desktop. It's in beta, so stuff might break when TikTok changes its site.
 > - Everything stays in your browser. Sessions are saved locally, so don't use it on a shared computer.
 > - Unofficial, not affiliated with TikTok.
+> - You're free to use, change, and build on this project however you like (MIT License).
 >
 > ## Features
 > - One-click account switching
