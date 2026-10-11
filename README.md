@@ -2,14 +2,14 @@
 
 ![hippo](https://i.imgur.com/NmzPyKs.png)
 
-# TikTok Account Switcher (BETA)
+# TikTok Account Switcher
 
 <p>A simple one-click account switcher for TikTok on desktop</p>
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
 <p>
-  <img src="https://img.shields.io/badge/version-0.2.0-blue?style=for-the-badge&logo=nologo" alt="Badge">
-  <img src="https://img.shields.io/github/stars/opsbest/AnonChat?style=for-the-badge&color=gold" alt="Stars">
+  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge&logo=nologo" alt="Version">
+  <img src="https://img.shields.io/github/stars/opsbest/TikTok-Account-Switcher?style=for-the-badge&color=gold" alt="Stars">
 </p>
 
 <hr>
