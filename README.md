@@ -7,7 +7,7 @@
 <p>A no-signup, anonymous, real-time chat app</p>
 <p>Demo: https://anonchat-7efz.onrender.com/</p>
 
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
 <p>
   <img src="https://img.shields.io/badge/version-0.2.0-blue?style=for-the-badge&logo=nologo" alt="Badge">
   <img src="https://img.shields.io/github/stars/opsbest/AnonChat?style=for-the-badge&color=gold" alt="Stars">
