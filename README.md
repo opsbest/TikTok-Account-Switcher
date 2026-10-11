@@ -2,7 +2,7 @@
 
 ![hippo](https://i.imgur.com/oyGikSz.png)
 
-# AnonChat v0.2.0 (Open Source)
+# TikTok Account Switcher (BETA)
 
 <p>A simple one-click account switcher for TikTok on desktop</p>
 
