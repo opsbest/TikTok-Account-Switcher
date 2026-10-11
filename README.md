@@ -21,19 +21,19 @@
 > - Download the project (or clone it with `git clone`)
 > - Open `chrome://extensions` and turn on **Developer mode**
 > - Click **Load unpacked** and pick the project folder
-> - Pin the extension, open TikTok, and you're good to go
+> - Pin the extension open TikTok and you're good to go
 >
 > ## About the Project
-> - A Chrome extension that switches between your TikTok accounts in one click.
-> - Made to make switching easier on desktop. It's in beta, so stuff might break when TikTok changes its site.
-> - Everything stays in your browser. Sessions are saved locally, so don't use it on a shared computer.
-> - Unofficial, not affiliated with TikTok.
-> - You're free to use, change, and build on this project however you like (MIT License).
+> - A Chrome extension that switches between your TikTok accounts in one click
+> - Made to make switching easier on desktop it's in beta so stuff might break when TikTok changes its site
+> - Everything stays in your browser sessions are saved locally so don't use it on a shared computer
+> - Unofficial not affiliated with TikTok
+> - You're free to use change and build on this project however you like (MIT License)
 >
 > ## Features
 > - One-click account switching
 > - Profile picture and username for each account
-> - Notification count next to each account, like `(9)`
-> - Username is picked up automatically, nothing to type
+> - Notification count next to each account like `(9)`
+> - Username is picked up automatically nothing to type
 > - The same account can't be added twice
  
