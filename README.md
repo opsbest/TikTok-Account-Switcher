@@ -8,7 +8,7 @@
 
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript">
 <p>
-    <img src="https://img.shields.io/badge/version-0.2.0-blue?style=for-the-badge&logo=nologo" alt="Badge">
+    <img src="https://img.shields.io/badge/version-beta-blue?style=for-the-badge&logo=nologo" alt="Badge">
     <img src="https://img.shields.io/github/stars/opsbest/TikTok-Account-Switcher?style=for-the-badge&color=gold" alt="Stars">
 </p>
 
